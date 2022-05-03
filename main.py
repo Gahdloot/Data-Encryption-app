@@ -156,10 +156,10 @@ class Encore:
 
 
 
-ecd = Encore('csv')
+#ecd = Encore('csv')
 #
-ecd.dataframe('data.csv')
-ecd.lock_allAph('key')
+#ecd.dataframe('data.csv')
+#ecd.lock_allAph('key')
 #ecd.unlock_allAph()
 #ecd.save()
 
