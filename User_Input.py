@@ -1,4 +1,4 @@
-
+##Note code is not yet finished
 from main import Encore
 
 filetype = input('What file type do you plan to work with')
